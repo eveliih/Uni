@@ -10,6 +10,18 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Uni">
         <activity
+            android:name=".VinkitActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TarkasteleTietojaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".UnenJalkeenActivity"
+            android:exported="false" />
+        <activity
+            android:name=".EnnenUntaActivity"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>

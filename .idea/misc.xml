@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/eveli/AndroidStudioProjects/Uni/app/src/main/res/layout/activity_ennen_unta.xml" value="0.1796875" />
+        <entry key="..\:/Users/eveli/AndroidStudioProjects/Uni/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/eveli/AndroidStudioProjects/Uni/app/src/main/res/layout/activity_tarkastele_tietoja.xml" value="0.1796875" />
+        <entry key="..\:/Users/eveli/AndroidStudioProjects/Uni/app/src/main/res/layout/activity_unen_jalkeen.xml" value="0.1796875" />
+        <entry key="..\:/Users/eveli/AndroidStudioProjects/Uni/app/src/main/res/layout/activity_vinkit.xml" value="0.1796875" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
